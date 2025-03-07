@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Assalomu alaykum! Men [Azizbek]!
+🚀 Full-Stack (Spring Boot & React) Developer | 📌 Oʻzbekiston
 
-<!--
-**xudoyberdiyev-dev/xudoyberdiyev-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔧 Mening texnologiyalarim
+- Java
+- Spring Boot
+- React
+- PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📬 Menga bog‘laning!
+📧 Email: azizbekazizbek2033@gmail.com  
+💼 LinkedIn: [Profilim](https://www.linkedin.com/in/username)  
+💬 Telegram: [@yourtelegram](https://t.me/@xudoyberdiyev_66)  
+
+---
+
+🚀 **Men bilan bog‘laning va birgalikda ajoyib loyihalar qilamiz!** 😎
