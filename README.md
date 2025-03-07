@@ -14,7 +14,7 @@
 ## 📬 Menga bog‘laning!
 📧 Email: azizbekazizbek2033@gmail.com  
 💼 LinkedIn: [Profilim](https://www.linkedin.com/in/username)  
-💬 Telegram: [@yourtelegram](https://t.me/@xudoyberdiyev_66)  
+💬 Telegram: [@yourtelegram](@xudoyberdiyev_66)  
 
 ---
 
